@@ -244,3 +244,49 @@ h2 {
         left: 100%;
    }
 }
+
+.special-alt p {
+    margin: 0px;
+}
+.special-alt ul {
+    margin: 0px;
+    font-size: 15pt;
+    line-height: 1.3em;
+}
+
+.skillset h2 {
+    margin-bottom: 0px;
+    font-weight: 600;
+    padding: 50px 0 0 0;
+}
+
+.skillset p {
+    padding: 0 0 0 50px;
+    line-height: 1.3em;
+    margin-bottom: 0;
+}
+
+.skillset > * {
+    padding: 0 0 0 50px;
+}
+
+.second-col {
+    padding-left: 25px;
+}
+
+.heading {
+    padding-top: 10px;
+    font-weight: 600;
+}
+
+.content-items li{
+    font-size: 18px;
+    line-height: 1.3em;
+    font-weight: 350;
+}
+
+.image.featured img {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
